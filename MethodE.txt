@@ -1,0 +1,1 @@
+[FBAN/Orca-Android;FBAV/295.0.0.34.119;FBPN/com.facebook.orca;FBLC/en_US;FBBV/254426061;FBCR/Airtel;FBMF/realme;FBBD/realme;FBDV/RMX2185;FBSV/10;FBCA/arm64-v8a:null;FBDM/{density=2.3,width=720,height=1560};]
